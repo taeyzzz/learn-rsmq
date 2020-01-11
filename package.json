@@ -1,0 +1,17 @@
+{
+  "name": "learn-message-queue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "rsmq": "^0.11.0",
+    "rsmq-worker": "^0.5.2"
+  }
+}
